@@ -20,7 +20,7 @@ def home():
         </audio>
         <script>
             const audio = document.getElementById('audio');
-            audio.volume = 5.0; // Configura el volumen al 100%
+            audio.volume = 5.0gi; // Configura el volumen al 100%
         </script>
     </body>
     </html>
